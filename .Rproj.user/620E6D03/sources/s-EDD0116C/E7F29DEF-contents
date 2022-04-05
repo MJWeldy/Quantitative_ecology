@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Quantitative Ecology"
+  author: "Matt Weldy"
+  date: "4/5/2022"
+  chapters:
+    - index.qmd
+    - setup.qmd
+    - part: intro.qmd
+      chapters:
+        - probabilistic_modeling.qmd
+    - part: abundance.qmd
+      chapters:
+        - lincoln_peterson.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: litera
+
+editor: visual
+

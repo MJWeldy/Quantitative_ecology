@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "abundance.html",
+    "href": "abundance.html",
+    "title": "3  Abundance",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "probabilistic_modeling.html",
+    "href": "probabilistic_modeling.html",
+    "title": "2  Probabilistic Modeling",
+    "section": "",
+    "text": "Intro to regressions…"
+  },
+  {
+    "objectID": "lincoln_peterson.html",
+    "href": "lincoln_peterson.html",
+    "title": "2  Lincoln-Peterson",
+    "section": "",
+    "text": "Lincoln-Peterson"
+  }
+]
