@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 /.quarto/
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*_cache/
+/.quarto/
+rsconnect
+>>>>>>> 5482752d0a2edaddc69fbc4c76d0ca50c28fe916
